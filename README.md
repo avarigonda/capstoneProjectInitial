@@ -31,16 +31,10 @@ It is the investigate more with the accuraty, testing, and training this data do
 
 #### Outline of project
 
-<<<<<<< HEAD
 - [Capstone Project](Capstone_project.ipynb)
 - [Household Power Consumption csv file](household_power_consumption.csv)
 
-=======
-- [Link to notebook 1](Capstone_project.ipynb)
-- [Link to notebook 2](household_power_consumption.csv)
-- [Link to notebook 3]()
->>>>>>> c5b984bc3cf6e95f737010fda3585c6ba9092b53
 
 
 ##### Contact and Further Information# CapstoneProject_intial
-# CapstoneProject_initial
+
